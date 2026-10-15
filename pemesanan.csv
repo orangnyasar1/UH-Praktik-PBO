@@ -1,2 +1,5 @@
 ID,Nama Pelanggan,Paket,Harga,Jumlah,Total,Status
 ORD001,Orlando,Basic,50000,3,150000,Diproses
+ORD002,Marquis,Basic,50000,1,50000,Diproses
+ORD003,Diego,Premium,150000,1,150000,Diproses
+ORD004,kppki,Standard,100000,1,100000,Diproses
